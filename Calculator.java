@@ -3,7 +3,7 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Simple Calculator");
+        System.out.println("My Java Calculator Tool");
         System.out.print("Enter first number: ");
         double num1 = scanner.nextDouble();
 
