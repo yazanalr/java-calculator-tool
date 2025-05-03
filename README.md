@@ -11,3 +11,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ## How to Run
 
 1. Compile the program:
+2. Run the program:
+
+## Author
+[Yazan and Mohammed Alruwaili]
